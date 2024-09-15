@@ -9,13 +9,13 @@
 
 ## About Me
 
- 🔭 I’m currently working on CodePath TIP and my web portfolio.
+ 🔭 I’m currently working on **CodePath TIP and my website portfolio!**
 
  🌱 I’m currently learning **Python and c++**
 
  📫 Reach out to me: **bp23e@fsu.edu**
 
- ✍ You can find me on linkedIn [here]("https://www.linkedin.com/in/bettyphipps/")
+ ✍ You can find me on linkedIn <a href="https://www.linkedin.com/in/bettyphipps/">Here</a>
 
  ⚡ Fun fact: **I played AAU Basketball**
 
