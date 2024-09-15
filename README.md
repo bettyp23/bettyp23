@@ -6,6 +6,9 @@
     </div>  
     <img align="right" alt="Coding" width="400" src="https://media.tenor.com/aykg8r1O0CkAAAAj/mofupiyo-mofu-piyo.gif">
 
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
+  
 ## About Me
 
  🔭 I’m currently working on **<a href="https://github.com/bettyp23/CodePathTIP">CodePath TIP</a> and my <a href="https://github.com/bettyp23/WebsitePortfolio">Website Portfolio!</a>**
