@@ -15,9 +15,9 @@
 
  📫 Reach out to me: **bp23e@fsu.edu**
 
- ✍ You can find me on linkedIn <a href="https://www.linkedin.com/in/bettyphipps/">Here</a>
+ ✍ Find me on <a href="https://www.linkedin.com/in/bettyphipps/">LinkedIn!</a>
 
- ⚡ Fun fact: **I played AAU Basketball**
+ ⚡ Fun fact: **I played AAU Basketball for the Miami Suns**
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
