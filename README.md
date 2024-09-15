@@ -32,7 +32,7 @@
 ## Projects 
 <div align=center>
 
-| Project Name | Desc. | Repo |
+| Project Name || Repo |
 |---|---|---|
 |**My Website** | |[**WebsitePortfolio**](https://github.com/bettyp23/WebsitePortfolio)|
 |**Coursework Practice**|  | [**CourseworkPractice**](https://github.com/bettyp23/CourseworkPractice)|
