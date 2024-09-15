@@ -12,7 +12,7 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
 
 
- 🔭 I’m currently working on [My portfolio website](https://arjuncvinod.github.io)
+ 🔭 I’m currently working on [My portfolio website]("add portfolio")
 
  🌱 I’m currently learning **React.js**
 
@@ -20,7 +20,7 @@
 
  📫 Reach out to me: **betty.phipps@example.com**
 
- ✍ You can find my resume [here](https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing)
+ ✍ You can find my resume [here]("input resume")
 
  ⚡ Fun fact: **My first line of code was not "Hello World!"**
 
