@@ -9,9 +9,10 @@
 
 ## About Me
 
- 🔭 I’m currently working on **<a href="https://github.com/bettyp23/CodePathTIP">CodePath TIP</a> and my <a href="https://github.com/bettyp23/WebsitePortfolio">website portfolio!</a>**
+ 🔭 I’m currently working on **<a href="https://github.com/bettyp23/CodePathTIP">CodePath TIP</a> and my <a href="https://github.com/bettyp23/WebsitePortfolio">Website Portfolio!</a>**
 
- 🌱 I’m currently learning **Python and c++**
+ 🌱I’m currently learning <span style="color: #306998; font-weight: bold;">Python</span> and <span style="color: #f34b7d; font-weight: bold;">C++</span>
+
 
  📫 Reach out to me: **bp23e@fsu.edu**
 
