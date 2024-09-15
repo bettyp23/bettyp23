@@ -9,7 +9,7 @@
 
 ## About Me
 
- 🔭 I’m currently working on **CodePath TIP and my website portfolio!**
+ 🔭 I’m currently working on **<a href="https://github.com/bettyp23/CodePathTIP">CodePath TIP</a> and my <a href="https://github.com/bettyp23/WebsitePortfolio">website portfolio!</a>**
 
  🌱 I’m currently learning **Python and c++**
 
