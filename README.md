@@ -34,14 +34,6 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="snake" align="center"/>
 
-## <b>📊 My GitHub Stats</b>
-
-![](https://github-readme-stats.vercel.app/api?username=arjuncvinod&theme=radical&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=arjuncvinod&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjuncvinod&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## <b>📈 GitHub Contributions</b>
-
-![Arjun's github activity graph](https://activity-graph.herokuapp.com/graph?username=arjuncvinod&theme=react-dark&hide_border=true&area=true)
- 
  <p  align="center">
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/thanks.gif" width=60px> 
 </p>
