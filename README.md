@@ -29,6 +29,16 @@
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">          
 
+## Projects 
+<div align=center>
+
+| Project Name | Desc. | Repo |
+|---|---|---|
+|**My Website** | |[**WebsitePortfolio**](https://github.com/bettyp23/WebsitePortfolio)|
+|**Coursework Practice**|  | [**CourseworkPractice**](https://github.com/bettyp23/CourseworkPractice)|
+|**CodePath** | | [**CodePathTIP**](https://github.com/bettyp23/CodePathTIP)|
+</div>
+</br>
  <p  align="center">
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/thanks.gif" width=60px> 
 </p>
