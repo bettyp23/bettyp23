@@ -7,20 +7,17 @@
 <p align="center"><a href="https://github.com/bettyp23/WebsitePortfolio">Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/aykg8r1O0CkAAAAj/mofupiyo-mofu-piyo.gif">
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
+## About Me
 
+ 🔭 I’m currently working on CodePath TIP and my web portfolio.
 
- 🔭 I’m currently working on [My portfolio website]("add portfolio")
+ 🌱 I’m currently learning **Python and c++**
 
- 🌱 I’m currently learning **React.js**
+ 📫 Reach out to me: **bp23e@fsu.edu**
 
- 💬 Ask me about **Node.js, MongoDB, PHP, MySQL**
+ ✍ You can find me on linkedIn [here]("https://www.linkedin.com/in/bettyphipps/")
 
- 📫 Reach out to me: **betty.phipps@example.com**
-
- ✍ You can find my resume [here]("input resume")
-
- ⚡ Fun fact: **My first line of code was not "Hello World!"**
+ ⚡ Fun fact: **I played AAU Basketball**
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
