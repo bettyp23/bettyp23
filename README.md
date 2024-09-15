@@ -4,9 +4,6 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Future+Entrepreneur;Tech-Leader;Presentor" alt="Headline" />
     </div>  
-<p align="center"><a href="https://github.com/bettyp23/WebsitePortfolio">Portfolio↗️</a></p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/aykg8r1O0CkAAAAj/mofupiyo-mofu-piyo.gif">
-
 ## About Me
 
  🔭 I’m currently working on **<a href="https://github.com/bettyp23/CodePathTIP">CodePath TIP</a> and my <a href="https://github.com/bettyp23/WebsitePortfolio">Website Portfolio!</a>**
