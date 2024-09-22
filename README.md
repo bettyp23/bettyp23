@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/7c/7c/87/7c7c87b81457643cfc6f8cc1b107f05c.gif)
+![MasterHead](https://media1.giphy.com/media/nFLW7PNGgN3lI68rdv/200w.gif?cid=6c09b952b3vqoupxe1gkkav3b9vmmou3t4ryfnkcrj9ezjrp&ep=v1_gifs_search&rid=200w.gif&ct=g)
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Betty Phipps</h1>
  
 <div align=center>
