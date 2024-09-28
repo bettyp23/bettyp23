@@ -36,7 +36,7 @@
 | Project Name || Repo |
 |---|---|---|
 |**My Website** | |[**WebsitePortfolio**](https://github.com/bettyp23/WebsitePortfolio)|
-|**Coursework Practice**|  | [**CourseworkPractice**](https://github.com/bettyp23/CourseworkPractice)|
+|**Lastest Project**|  | [**Lastest Project**](https://github.com/bettyp23/Project.1_Temperature-System)|
 |**CodePath** | | [**CodePathTIP**](https://github.com/bettyp23/CodePathTIP)|
 </div>
 </br>
