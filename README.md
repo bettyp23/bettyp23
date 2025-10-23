@@ -5,6 +5,23 @@
 </div>
 
 
+# 💻 Defense Software Engineer | Integrating AI, Cloud Computing, and Cybersecurity
+
+I am a **Computer Science student** dedicated to developing software solutions that integrate **Artificial Intelligence (AI)**, **Cloud Computing**, and **Cybersecurity** to tackle complex challenges in defense. My work focuses on designing systems that are **practical, reliable, and secure**, with the goal of:
+
+- Enhancing operational performance for defense teams  
+- Protecting personnel and critical systems  
+- Translating innovative technologies into meaningful, real-world impact  
+
+I am also passionate about **mentorship and knowledge sharing**, inspiring the next generation of tech innovators through outreach initiatives. Beyond engineering, I am driven by **entrepreneurial opportunities**, aiming to create solutions that **bridge advanced technology with real-world challenges**, leaving a lasting impact on both defense and society.
+
+<div align="center">
+
+✨ **Core Focus Areas:**  
+**AI & Machine Learning** | **Cloud Solutions & Deployment** | **Cybersecurity & Threat Mitigation** | **Software Development & Automation**  
+
+</div>
+
 **Defense Software Engineer | Integrating AI, Cloud Computing, and Cybersecurity**
 
 I am a Computer Science student developing software solutions that integrate AI, cloud computing, and cybersecurity to address complex challenges in defense. My focus is on building systems that are practical, reliable, and secure, with the goal of enhancing operational performance, safeguarding personnel, and translating innovative technologies into meaningful impact.
