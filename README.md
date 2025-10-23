@@ -62,20 +62,6 @@ I am passionate about sharing knowledge and inspiring the next generation of tec
 
 ---
 
-# 🌟 Featured Projects  
-🔹 **Server Monitoring Dashboard** – built with NestJS + Angular for tracking app and web server performance  
-🔹 **Meter Labeling Automation Tool** – improved electrical installation accuracy for customer billing  
-🔹 **Food Discovery Platform** – a TikTok-style food review platform helping users find restaurants by category and authenticity  
-🔹 **Portfolio Website** – personal portfolio showcasing my journey in tech and entrepreneurship  
-
----
-
-# 📺 Featured Content  
-🎬 *Coming soon:* videos and posts documenting my experience in tech, software engineering, and self-growth.  
-
----
-
 # 💬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bettyphipps)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BettyPhipps)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4088.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://bettyphipps.dev) *(coming soon!)*  
+[!Substack](https://substack.com/@bettyphipps?utm_campaign=profile&utm_medium=profile-page)
