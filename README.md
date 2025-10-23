@@ -1,6 +1,8 @@
 # Betty Phipps
 
-<img src="https://github.com/user-attachments/assets/d049bbfa-6c63-49dc-a099-8fa7c0221c9a" alt="IMG_1875" width="400"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d049bbfa-6c63-49dc-a099-8fa7c0221c9a" alt="IMG_1875" width="500"/>
+</div>
 
 
 **Defense Software Engineer | Integrating AI, Cloud Computing, and Cybersecurity**
