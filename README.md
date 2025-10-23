@@ -1,5 +1,8 @@
 # Betty Phipps
 
+![IMG_1875](https://github.com/user-attachments/assets/d049bbfa-6c63-49dc-a099-8fa7c0221c9a)
+
+
 **Defense Software Engineer | Integrating AI, Cloud Computing, and Cybersecurity**
 
 I am a Computer Science student developing software solutions that integrate AI, cloud computing, and cybersecurity to address complex challenges in defense. My focus is on building systems that are practical, reliable, and secure, with the goal of enhancing operational performance, safeguarding personnel, and translating innovative technologies into meaningful impact.
