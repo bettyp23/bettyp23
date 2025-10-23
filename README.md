@@ -17,35 +17,48 @@ I am passionate about sharing knowledge and inspiring the next generation of tec
 
 # 💻 Tech Stack  
 <!-- Core -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
 
 <!-- Frameworks -->
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br/>
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white))<br/>
 
 <!-- Tools -->
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
-# 🧠 Current Focus  
-📘 Strengthening skills in **data structures, algorithms, and OOP**  
-☁️ Expanding into **cloud computing** and **AI fundamentals**  
-🔐 Learning about **cyber resiliency** and **data protection**  
-📊 Exploring **data visualization** and **analytical storytelling**  
-💼 Preparing for **2025 Summer Internship at Royal Caribbean** 🌊  
+## 💼 Experience
+
+### **Embedded Software Engineer | L3Harris Technologies (Internship)**
+*May 2025 – Present | Palm Bay, FL | On-site*  
+- Developed a custom SQLite Virtual File System (VFS) in C/C++ integrated into a Java mobile app, and automated testing with Python in Jenkins CI pipelines.
+
+**Skills:** Embedded Software, C/C++, Python, Java, Mobile Development, Jenkins CI  
+
+---
+
+### **IT Business Analyst Intern | NextEra Energy, Inc.**
+*May 2024 – Aug 2024 | Juno Beach, FL | Hybrid*  
+- Built backend (NestJS) and frontend (Angular) systems with authentication, tracking, and multimedia features, while supporting API testing and cybersecurity initiatives.
+
+**Skills:** Java, TypeScript, Angular, NestJS, API Testing, Cybersecurity  
+
+---
+
+### **Help Desk Technician | FSU College of Communication & Information**
+*Nov 2024 – Feb 2025 | Tallahassee, FL | On-site*  
+- Provided technical support across Windows and Mac OS environments, diagnosing and resolving issues while maintaining effective documentation and ticket tracking.
+
+**Skills:** Windows OS, Mac OS, Networking, Customer Service, Technical Troubleshooting
 
 ---
 
