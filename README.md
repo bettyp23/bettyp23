@@ -40,28 +40,20 @@ I am passionate about sharing knowledge and inspiring the next generation of tec
 
 ### **Embedded Software Engineer | L3Harris Technologies (Internship)**
 *May 2025 – Present | Palm Bay, FL | On-site*  
-- Developed a custom SQLite Virtual File System (VFS) in C/C++ integrated into a Java mobile app, and automated testing with Python in Jenkins CI pipelines.
-
 **Skills:** Embedded Software, C/C++, Python, Java, Mobile Development, Jenkins CI  
 
----
 
 ### **IT Business Analyst Intern | NextEra Energy, Inc.**
 *May 2024 – Aug 2024 | Juno Beach, FL | Hybrid*  
-- Built backend (NestJS) and frontend (Angular) systems with authentication, tracking, and multimedia features, while supporting API testing and cybersecurity initiatives.
-
 **Skills:** Java, TypeScript, Angular, NestJS, API Testing, Cybersecurity  
 
----
 
 ### **Help Desk Technician | FSU College of Communication & Information**
 *Nov 2024 – Feb 2025 | Tallahassee, FL | On-site*  
-- Provided technical support across Windows and Mac OS environments, diagnosing and resolving issues while maintaining effective documentation and ticket tracking.
-
 **Skills:** Windows OS, Mac OS, Networking, Customer Service, Technical Troubleshooting
 
 ---
 
 # 💬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bettyphipps)  
-[!Substack](https://substack.com/@bettyphipps?utm_campaign=profile&utm_medium=profile-page)
+[![Substack](https://substack.com/@bettyphipps?utm_campaign=profile&utm_medium=profile-page)
