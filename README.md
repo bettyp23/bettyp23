@@ -1,10 +1,14 @@
-# 👋 Hi, I'm Betty Phipps!  
-💻 **Computer Science + Entrepreneurship student** at Florida State University (Class of 2026)  
-🌍 Passionate about how **technology and innovation** solve real-world problems  
-🚀 Currently interning as an **IT Business Analyst** and building skills in **software development, AI, cloud, and cybersecurity**  
+# Betty Phipps
+
+**Defense Software Engineer | Integrating AI, Cloud Computing, and Cybersecurity**
+
+I am a Computer Science student developing software solutions that integrate AI, cloud computing, and cybersecurity to address complex challenges in defense. My focus is on building systems that are practical, reliable, and secure, with the goal of enhancing operational performance, safeguarding personnel, and translating innovative technologies into meaningful impact.
+
+I am passionate about sharing knowledge and inspiring the next generation of tech innovators through outreach and mentorship initiatives. I am also driven by entrepreneurial opportunities, aiming to develop solutions that connect advanced technology with real-world challenges, creating a meaningful and lasting impact on both defense and society.
+
+---
 🎥 Sharing my journey in **tech, career growth, and personal development**  
-💡 Exploring paths in **software engineering, investment banking, and technical consulting**  
-🌱 Always learning — from coding and data to business strategy and creativity  
+
 
 <!-- GitHub stats -->
 ![](https://github-readme-stats.vercel.app/api?username=BettyPhipps&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -17,8 +21,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
 
 <!-- Frameworks -->
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
