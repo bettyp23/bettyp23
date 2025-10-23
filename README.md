@@ -56,4 +56,4 @@ I am passionate about sharing knowledge and inspiring the next generation of tec
 
 # 💬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bettyphipps)  
-[![Substack](https://substack.com/@bettyphipps?utm_campaign=profile&utm_medium=profile-page)
+[![Substack](https://img.shields.io/badge/Substack-%23FF671F.svg?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@bettyphipps?utm_campaign=profile&utm_medium=profile-page)
