@@ -51,7 +51,6 @@ I am passionate about **mentorship and knowledge sharing**, inspiring the next g
 ![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 </div>
----
 
 ## 💼 Experience
 
