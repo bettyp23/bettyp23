@@ -73,11 +73,11 @@ I am passionate about **mentorship and knowledge sharing**, inspiring the next g
 
 ##  Reflections on My Work
 
-Check out my interactive Substack post by clicking the button below:
+Below is where I discuss how my latest GitHub projects helped me :
 
 [![Read on Substack](https://img.shields.io/badge/Read%20on-Substack-red?style=for-the-badge&logo=substack)](https://open.substack.com/pub/bettyphipps/p/how-parallel-computing-powers-ai?r=2x7kbz&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
-This post reflects on how projects using **Ray, multithreading, and dynamic data structures** taught me to build scalable, efficient, and secure software, while understanding the bigger picture of AI and cloud computing. These experiences show how thoughtful design and parallel execution can tackle complex real-world problems.
+This seasons post reflects on how projects using **Ray, multithreading, and dynamic data structures** taught me to build scalable, efficient, and secure software, while understanding the bigger picture of AI and cloud computing. These experiences show how thoughtful design and parallel execution can tackle complex real-world problems.
 
 </div>
 
