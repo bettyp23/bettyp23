@@ -71,7 +71,7 @@ I am passionate about **mentorship and knowledge sharing**, inspiring the next g
 
 <div align="center">
 
-## 💡 Reflections on Parallel Computing and AI
+##  Reflections on My Work
 
 Check out my interactive Substack post by clicking the button below:
 
