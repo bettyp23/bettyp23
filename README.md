@@ -68,7 +68,8 @@ I am passionate about **mentorship and knowledge sharing**, inspiring the next g
 **Skills:** Windows OS, Mac OS, Networking, Customer Service, Technical Troubleshooting
 
 ---
-<p align="center">
+
+<div align="center">
 
 ## 💡 Reflections on Parallel Computing and AI
 
@@ -78,7 +79,7 @@ Check out my interactive Substack post by clicking the button below:
 
 This post reflects on how projects using **Ray, multithreading, and dynamic data structures** taught me to build scalable, efficient, and secure software, while understanding the bigger picture of AI and cloud computing. These experiences show how thoughtful design and parallel execution can tackle complex real-world problems.
 
-</p>
+</div>
 
 ---
 
