@@ -29,6 +29,7 @@ I am passionate about **mentorship and knowledge sharing**, inspiring the next g
 ![](https://github-readme-stats.vercel.app/api?username=BettyPhipps&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
+<div align="center">
 
 # 💻 Tech Stack  
 <!-- Core -->
@@ -49,6 +50,7 @@ I am passionate about **mentorship and knowledge sharing**, inspiring the next g
 ![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
+</div>
 ---
 
 ## 💼 Experience
