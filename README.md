@@ -11,9 +11,7 @@
 
 </div>
 
-I am a **Computer Science student** focused on developing software solutions that integrate **Artificial Intelligence (AI)**, **Cloud Computing**, and **Cybersecurity** to address complex challenges in defense. My GitHub projects show the path I am taking as a Computer Science student who is committed to building software that is practical, secure, and meaningful. I focus on integrating AI to extract intelligence from complex data, applying cloud and distributed computing to ensure systems are scalable and dependable, and using cybersecurity principles to protect information and maintain trust. Through projects involving NLP, parallel processing, secure login design, and foundational systems programming, I have built skills that support real-world operational needs. My goal is to create technology that strengthens performance, safeguards people, and brings innovative ideas into solutions that truly make a difference.
-
-I am passionate about **mentorship and knowledge sharing**, inspiring the next generation of tech innovators through outreach initiatives. Beyond engineering, I am driven by **entrepreneurial opportunities**, creating solutions that bridge advanced technology with real-world challenges to leave a lasting impact on both defense and society.
+I am a Computer Science student focused on building software that uses AI, Cloud Computing, and Cybersecurity to solve real challenges in defense. My GitHub projects show my ability to analyze data with AI, design scalable cloud systems, and build secure applications that protect information and maintain reliability. I care about creating technology that is useful, safe, and impactful. I also value mentorship and sharing knowledge, and I am interested in using entrepreneurship to bring strong, real-world solutions to both defense and the broader community.
 
 <div align="center">
 
