@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# Defense Software Engineer | Integrating AI, Cloud Computing, and Cybersecurity
+# Defense Software Engineer | Innovative software projects, designs, AI implementations
 
 </div>
 
