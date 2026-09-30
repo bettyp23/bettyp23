@@ -1,87 +1,73 @@
+<div align="center">
+
 # Betty Phipps
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d049bbfa-6c63-49dc-a099-8fa7c0221c9a" alt="IMG_1875" width="500"/>
-</div>
+### Software Engineer · Embedded Systems · AI · Cybersecurity
 
+<img src="https://github.com/user-attachments/assets/d049bbfa-6c63-49dc-a099-8fa7c0221c9a" alt="Betty Phipps" width="400"/>
 
-<div align="center">
-
-# Defense Software Engineer | Innovative software projects, designs, AI implementations
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bettyphipps)
 
 </div>
 
-I am a Computer Science student focused on building software that uses AI, Cloud Computing, and Cybersecurity to solve real challenges in defense. My GitHub projects show my ability to analyze data with AI, design scalable cloud systems, and build secure applications that protect information and maintain reliability. I care about creating technology that is useful, safe, and impactful. I also value mentorship and sharing knowledge, and I am interested in using entrepreneurship to bring strong, real-world solutions to both defense and the broader community.
+## About Me
 
-<div align="center">
+I am a Computer Science student at Florida State University and an Embedded Software Engineer intern at L3Harris Technologies. I build software that applies AI, cloud computing, and cybersecurity to real challenges in defense, with a focus on systems that are secure, reliable, and scalable.
 
-✨ **Core Focus Areas:** AI & Machine Learning | Cloud Solutions & Deployment | Cybersecurity & Threat Mitigation | Software Development & Automation  
+**Core focus areas:** AI & Machine Learning · Cloud Solutions & Deployment · Cybersecurity & Threat Mitigation · Software Development & Automation
 
-</div>
+## Featured Projects
 
----
-🎥 Sharing my journey in **tech, career growth, and personal development**  
+| Project | Description | Stack |
+|---|---|---|
+| [Link2Itinerary](https://github.com/bettyp23/Link2itinerary) | Full-stack web app that turns social travel links into validated, budget-aware itineraries using an LLM planner | TypeScript, React, NestJS, PostgreSQL |
+| [Centralized Business Command Center](https://github.com/bettyp23/centralized-business-command-center.) | Centralized command center application for business management | TypeScript |
+| [Secure Flask Portal](https://github.com/bettyp23/Secure-Flask-Portal) | Secure pay raise portal applying secure web development practices | Python, Flask |
+| [Hugging Face FAQ Chatbot](https://github.com/bettyp23/huggingface-faq-chatbot) | Chatbot that answers only from a local FAQ file and refuses instead of guessing | Hugging Face |
+| [AI NLP Stock Analysis](https://github.com/bettyp23/AI-NLP-Analysis-and-Stock-Data-Script) | AI sentiment analysis combined with stock data retrieval | Python, NLP |
+| [Unix Shell](https://github.com/bettyp23/cop4610-shell) | Custom Unix shell implementation (Operating Systems) | C, Linux |
 
+## Tech Stack
 
-<!-- GitHub stats -->
-![](https://github-readme-stats.vercel.app/api?username=BettyPhipps&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
----
-<div align="center">
-
-# 💻 Tech Stack  
-<!-- Core -->
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Languages**<br/>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!-- Frameworks -->
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+**Frameworks**<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br/>
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-<!-- Tools -->
+**Tools**<br/>
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-</div>
+## Experience
 
-## 💼 Experience
+**Embedded Software Engineer Intern** · L3Harris Technologies<br/>
+*May 2025 – Present · Palm Bay, FL*<br/>
+C/C++, Python, Java, Embedded Software, Mobile Development, Jenkins CI
 
-### **Embedded Software Engineer | L3Harris Technologies (Internship)**
-*May 2025 – Present | Palm Bay, FL | On-site*  
-**Skills:** Embedded Software, C/C++, Python, Java, Mobile Development, Jenkins CI  
+**IT Business Analyst Intern** · NextEra Energy, Inc.<br/>
+*May 2024 – Aug 2024 · Juno Beach, FL*<br/>
+Java, TypeScript, Angular, NestJS, API Testing, Cybersecurity
 
+**Help Desk Technician** · FSU College of Communication & Information<br/>
+*Nov 2024 – Feb 2025 · Tallahassee, FL*<br/>
+Windows & macOS Support, Networking, Technical Troubleshooting
 
-### **IT Business Analyst Intern | NextEra Energy, Inc.**
-*May 2024 – Aug 2024 | Juno Beach, FL | Hybrid*  
-**Skills:** Java, TypeScript, Angular, NestJS, API Testing, Cybersecurity  
-
-
-### **Help Desk Technician | FSU College of Communication & Information**
-*Nov 2024 – Feb 2025 | Tallahassee, FL | On-site*  
-**Skills:** Windows OS, Mac OS, Networking, Customer Service, Technical Troubleshooting
-
----
+## GitHub Stats
 
 <div align="center">
 
-##  Reflections on My Work
-
-Below is where I discuss how my latest GitHub projects helped me :
-
-[![Read on Substack](https://img.shields.io/badge/Read%20on-Substack-red?style=for-the-badge&logo=substack)](https://open.substack.com/pub/bettyphipps/p/how-parallel-computing-powers-ai?r=2x7kbz&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
-
-This seasons post reflects on how projects using **Ray, multithreading, and dynamic data structures** taught me to build scalable, efficient, and secure software, while understanding the bigger picture of AI and cloud computing. These experiences show how thoughtful design and parallel execution can tackle complex real-world problems.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettyp23&show_icons=true&hide_border=true&count_private=true)
 
 </div>
-
----
-
-# 💬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bettyphipps)  
-[![Substack](https://img.shields.io/badge/Substack-%23FF671F.svg?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@bettyphipps?utm_campaign=profile&utm_medium=profile-page)
