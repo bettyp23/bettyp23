@@ -63,11 +63,3 @@ Java, TypeScript, Angular, NestJS, API Testing, Cybersecurity
 **Help Desk Technician** · FSU College of Communication & Information<br/>
 *Nov 2024 – Feb 2025 · Tallahassee, FL*<br/>
 Windows & macOS Support, Networking, Technical Troubleshooting
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettyp23&show_icons=true&hide_border=true&count_private=true)
-
-</div>
